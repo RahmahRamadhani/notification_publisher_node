@@ -153,5 +153,3 @@ Received message in FCM:  {
 }
 [FCM] sending for messages on queue: FCM
 ```
-### Hasil Akhir
-![Hasil Akhir](overview.png)
